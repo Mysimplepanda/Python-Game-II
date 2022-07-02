@@ -33,6 +33,8 @@
 | miss_sound.wav | The sound effect when you don't click the cat |
 | ctc_background.png | The background (created by dafumom) |
 
+
+
  ------
  
  **4. _code snippet_**
@@ -79,3 +81,12 @@ displayscreen = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
 pygame.display.set_caption("Touch The Cat!!!")
 
 ```
+ -----
+ 
+**_5. Game Assets:_**
+  
+  * [Icon Arxhive: ](https://iconarchive.com/) 網站提供很多遊戲角色下載
+  * [Leshy SFMaker: ](https://www.leshylabs.com/apps/sfMaker/) 網站可以下載遊戲特效, 也可以簡單自己製作音效
+  * [Video Games Music Free Download: ](https://www.chosic.com/free-music/games/) 可以下再不會被告的遊戲背景音樂
+  
+<img src="https://raw.githubusercontent.com/Mysimplepanda/Python-Game-II/main/Touch_The_Cat_Play.png" width="400" height="300" alt="2.py程式截圖"><br> 
