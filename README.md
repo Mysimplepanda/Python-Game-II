@@ -32,3 +32,50 @@
 | click_sound.wav | The sound effect when you click the cat |
 | miss_sound.wav | The sound effect when you don't click the cat |
 | ctc_background.png | The background (created by dafumom) |
+
+ ------
+ 
+ **4. _code snippet_**
+
+```Python
+#Blit image object and setting its rec.
+cat_image = pygame.image.load("Catlove.png")
+cat_rect = cat_image.get_rect()
+cat_rect.center = (WINDOW_WIDTH//2, WINDOW_HEIGHT//2)
+
+### while running~
+displayscreen.blit(cat_image, cat_rect)
+```
+```Python
+#Check for GameOver
+  if lives==0:
+    displayscreen.blit(gameover_text, gameover_rect)
+    displayscreen.blit(continue_text, continue_rect)
+    pygame.display.update()
+        
+    #Pause the game until the player clicks to reset the game.
+    is_paused = True
+    while is_paused:
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                is_paused = False
+                running   = False
+                    
+           if event.type == pygame.MOUSEBUTTONDOWN:
+                score = 0
+                lives = PLAYER_STARTING_LIVES
+                cat_rect.center = (WINDOW_WIDTH//2, WINDOW_HEIGHT//2)
+                cat_velocity = CAT_STARTING_VELOCITY
+                cat_dx = random.choice([1,-1])
+                cat_dy = random.choice([1,-1])
+                   
+                pygame.mixer.music.play(-1, 0.0)
+                is_paused=False
+```
+```Python
+#create the displayscreen
+WINDOW_WIDTH, WINDOW_HEIGHT = 800,600
+displayscreen = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
+pygame.display.set_caption("Touch The Cat!!!")
+
+```
