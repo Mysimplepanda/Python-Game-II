@@ -22,3 +22,13 @@
  ------
  
  **3. _introduction of files _
+ 
+| File | introduction |
+|:-----:|:----------:|
+| CatLove.png | The main character of this game |
+| Franxurter.ttf | The font of this game |
+| TouchTheCat.py | The code :) |
+| background_music.wav | background music |
+| click_sound.wav | The sound effect when you click the cat |
+| miss_sound.wav | The sound effect when you don't click the cat |
+| ctc_background.png | The background (created by dafumom) |
