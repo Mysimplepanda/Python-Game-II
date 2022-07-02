@@ -12,3 +12,10 @@
     5. Font Space: https://www.fontspace.com/commercial-fonts (下載字體)
     6. Video Games Music Free Download: https://www.chosic.com/free-music/games/ (下載背景音樂)`
  ------
+ 
+ **2. _What is pygame? (copied from my first repository) _
+ 
+    Pygame提供Display, Sound, Music, Image, Text, Event幫助製作遊戲。
+    Pygame可以做出2.0小遊戲
+    Pygame偵測使用者使用Keyboard, joystick, mouse控制遊戲
+    Pygame提供許多內建的game objects來製作遊戲
