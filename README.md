@@ -3,7 +3,7 @@
 
  ------
 
-* 1. _參考資料:_
+* _1. _參考資料:_
   
     1. Pygame Page: http://pygame.org
     2. documentation: http://pygame.org/docs/ref
