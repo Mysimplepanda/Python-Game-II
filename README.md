@@ -1,5 +1,7 @@
 # Python-Game-II
-這是用滑鼠操作的遊戲~一樣是是用Pygame module製作。
+### 這是用滑鼠操作的遊戲~一樣是是用Pygame module製作。
+
+ ------
 
 **_1. _參考資料:_
       1. Pygame Page: http://pygame.org
