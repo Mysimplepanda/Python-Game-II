@@ -13,7 +13,7 @@
     6. Video Games Music Free Download: https://www.chosic.com/free-music/games/ (下載背景音樂)`
  ------
  
- **2. _What is pygame? (copied from my first repository) _
+ **2. _What is pygame? (copied from my first repository) _**
  
     1. Pygame提供Display, Sound, Music, Image, Text, Event幫助製作遊戲。
     2. Pygame可以做出2.0小遊戲
@@ -21,7 +21,7 @@
     4. Pygame提供許多內建的game objects來製作遊戲
  ------
  
- **3. _introduction of files _
+ **3. _introduction of files _**
  
 | File | introduction |
 |:-----:|:----------:|
