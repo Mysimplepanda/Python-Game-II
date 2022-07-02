@@ -10,7 +10,8 @@
     3. Icon Archive: https://iconarchive.com/ (下載遊戲角色)
     4. Leshy SFMaker: https://www.leshylabs.com/apps/sfMaker/ (下載音效)
     5. Font Space: https://www.fontspace.com/commercial-fonts (下載字體)
-    6. Video Games Music Free Download: https://www.chosic.com/free-music/games/ (下載背景音樂)`
+    6. Video Games Music Free Download: https://www.chosic.com/free-music/games/ (下載背景音樂)
+    7. 𝔣𝔬𝔫𝔱𝔭𝔞𝔰𝔱𝔢: https://www.fontpaste.com/ (本標題字體是使用這個網站製作)
  ------
  
  **2. _What is pygame? (copied from my first repository)_**
