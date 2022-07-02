@@ -1,4 +1,4 @@
-# Python-Game-II
+# 𝓅𝓎𝓉𝒽𝑜𝓃-𝑔𝒶𝓂𝑒-𝒾𝒾
 ### 這是用滑鼠操作的遊戲~一樣是是用Pygame module製作。
 
  ------
@@ -15,7 +15,10 @@
  
  **2. _What is pygame? (copied from my first repository) _
  
-    Pygame提供Display, Sound, Music, Image, Text, Event幫助製作遊戲。
-    Pygame可以做出2.0小遊戲
-    Pygame偵測使用者使用Keyboard, joystick, mouse控制遊戲
-    Pygame提供許多內建的game objects來製作遊戲
+    1. Pygame提供Display, Sound, Music, Image, Text, Event幫助製作遊戲。
+    2. Pygame可以做出2.0小遊戲
+    3. Pygame偵測使用者使用Keyboard, joystick, mouse控制遊戲
+    4. Pygame提供許多內建的game objects來製作遊戲
+ ------
+ 
+ **3. _introduction of files _
